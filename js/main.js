@@ -2,13 +2,15 @@ alert('Assalomu alaykum hurmatli foydalanuvchi. "Juft yoki Toq" o\'yinimizga xus
 let num = prompt('Istalgan son kiriting va u Juft yoki Toq ekanligini aniqlang!')
 
 
-if(num%2==0) {
+if(num%2===0) {
     console.log(alert('Bu son juft'))
-} else if(num%2==1) {
+} else if(num%2===1) {
     console.log(alert('Bu son toq'))
 } else if(num%2== -1 ) {
     console.log(alert('Siz manfiy son kiritdingiz!'))
-} 
+} else {
+    alert('Bu son emas yoki manfiy son')
+}
 
 alert('O\'yinimizdan foydalanganingiz uchun tashakkur!!!')
 
