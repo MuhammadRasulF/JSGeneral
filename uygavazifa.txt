@@ -1,0 +1,6 @@
+Uyga vazifa:
+1) Son qabul qilib alert da sonni toq yoki juftligini aniqlaydigan dastur. Misol: foydalanuvchi prompt orqali 5 sonini kiritsa alertda 5 soni toq deb chiqishi kerak. 
+2) Voenkomat:
+Foydalanuvchi 1-ismini 2-familiyasini 3-tug'ilgan yilini kiritadi (promptda). Agar foydalanuvchining yoshi 18 dan kishik bo'lsa alertda foydalanuvchi ism familiyasi va yoshini chiqaradi va armiyaga yoshi kichiklik qilishini etadi. Misol:
+Falonchi ismli foydalanuvchi prompt orqali ismini kiritdi. Keyin familiyasi (falonchiyev). Keyin tug'ilgan yili (2005)
+Alertda: Assalomu alaykum Falonchi Pismadonchiyev. Sizning yoshingiz 17 da va siz armiyaga qabul qilinmadingiz.
